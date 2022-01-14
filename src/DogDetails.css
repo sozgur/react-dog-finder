@@ -1,0 +1,27 @@
+.DogDetails {
+    display: flex;
+}
+
+.DogDetails img {
+    margin: 5% 0 0 30%;
+    width: 500px;
+    border-radius: 50px;
+}
+
+.DogDetails-info {
+    margin: 5% 0 0 10%;
+    width: 500px;
+    border-radius: 50px;
+}
+
+.DogDetails ul {
+    text-align: left;
+    display: inline-grid;
+    font-size: 19px;
+}
+
+.DogDetails-goback {
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+}
